@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jjwngamer</groupId>
-    <artifactId>SharpnessRemoveSV</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>SharpnessRemove</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>SharpnessRemoveSV</name>
+    <name>SharpnessRemove</name>
 
     <description>Made by ItsMeJasperr#3148</description>
     <properties>

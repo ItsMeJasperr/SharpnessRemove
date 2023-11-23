@@ -1,5 +1,5 @@
-name: SharpnessRemoveSV
+name: SharpnessRemove
 version: '${project.version}'
-main: com.jjwngamer.sharpnessremovesv.SharpnessRemoveSV
+main: com.jjwngamer.sharpnessremove.SharpnessRemove
 authors: [ ItsMeJasperr ]
 description: Made by ItsMeJasperr#3148
